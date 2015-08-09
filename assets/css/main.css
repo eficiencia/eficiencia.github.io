@@ -470,7 +470,7 @@
 	}
 
 	header p {
-		color: rgba(255, 255, 255, 0.5);
+		color: rgba(255, 255, 255, 0.8);
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -1059,6 +1059,7 @@
 		#signup-form input[type="password"],
 		#signup-form input[type="email"] {
 			width: 18em;
+            font-size: 0.9em;
 		}
 
 		#signup-form > * {
